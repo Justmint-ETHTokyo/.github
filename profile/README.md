@@ -6,6 +6,7 @@ https://testnet-zkevm.polygonscan.com/address/0x3a34a802b4e24138363a50f868c671f8
 https://testnet-zkevm.polygonscan.com/address/0xb9d0e5f23a5e94c8435511665a121856da7fefa3
 
 You can see our deployment link below!
+<br>
 https://twitter.com/justmint_yours/status/1647261970616418304?s=46&t=Ntga3w07QNMQJPN37ZQNAA
 <!--
 
